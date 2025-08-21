@@ -1,23 +1,5 @@
 # Manual de Vibe Coding
 
-## Sumário
-1. Introdução
-    1.1. Contexto histórico e evolução da programação
-    1.2. Definição de Vibe Coding
-    1.3. Motivação para o surgimento do Vibe Coding
-    1.4. Benefícios e oportunidades
-    1.5. Riscos e desafios
-    1.6. Escopo e objetivos do manual
-2. Fundamentos teóricos do Vibe Coding
-3. Princípios éticos e melhores práticas
-4. Diretrizes práticas para colaboradores iniciantes
-5. Estudos de caso e aplicações reais
-6. Desafios atuais e perspectivas futuras
-7. Conclusão
-8. Referências
-
----
-
 # 1. Introdução
 
 A programação de computadores sempre foi marcada por transformações nas formas de interação entre humanos e máquinas. Nos primeiros anos, a escrita de código em linguagens de baixo nível exigia habilidades técnicas avançadas, limitando o acesso à programação apenas a especialistas [1]. Com o tempo, linguagens de alto nível e ambientes integrados surgiram, reduzindo as barreiras de entrada, mas ainda mantendo um nível significativo de complexidade cognitiva.
